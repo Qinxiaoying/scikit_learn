@@ -6,3 +6,5 @@
 * **_placeholder_**：又叫占位符，用来表示输出数据的格式；
 * **_Session_**：tensorflow中抽象模型的实现方法，类似于python中的类；  
 ## 二、Tensorflow 模型构建
+## 三、训练模型
+## 四、预测检验
